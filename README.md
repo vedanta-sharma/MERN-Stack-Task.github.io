@@ -3,7 +3,7 @@
 Complete Tasks of MERN Stack Task List Set - 1.
 
 1. HTML Task List URLs
-  1.1 https://vedanta-sharma.github.io/MERN-Stack-Task.github.io/Mern%20Task%20Set%20-%201/Assignment-HTML/Task-1/index.html
+  1.1 https://vedanta-sharma.github.io/MERN-Stack-Task.github.io/Mern%20Task%20Set%20-%201/Assignment-HTML/Task-1/index.html <br>
   1.2 https://vedanta-sharma.github.io/MERN-Stack-Task.github.io/Mern%20Task%20Set%20-%201/Assignment-HTML/Task-2/index.html
   1.3 https://vedanta-sharma.github.io/MERN-Stack-Task.github.io/Mern%20Task%20Set%20-%201/Assignment-HTML/Task-3/index.html
   1.4 https://vedanta-sharma.github.io/MERN-Stack-Task.github.io/Mern%20Task%20Set%20-%201/Assignment-HTML/Task-4/index.html
