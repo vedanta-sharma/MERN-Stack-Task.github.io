@@ -47,3 +47,6 @@ Complete Tasks of MERN Stack Task List Set - 1.
   4.6 https://vedanta-sharma.github.io/MERN-Stack-Task.github.io/Mern%20Task%20Set%20-%201/JAVASCRIPT/task6.html <br>
   4.7 https://vedanta-sharma.github.io/MERN-Stack-Task.github.io/Mern%20Task%20Set%20-%201/JAVASCRIPT/task7.html <br>
   4.8 https://vedanta-sharma.github.io/MERN-Stack-Task.github.io/Mern%20Task%20Set%20-%201/JAVASCRIPT/task8.html <br>
+  4.9 https://vedanta-sharma.github.io/MERN-Stack-Task.github.io/Mern%20Task%20Set%20-%201/JAVASCRIPT/task9.html <br>
+  4.10 https://vedanta-sharma.github.io/MERN-Stack-Task.github.io/Mern%20Task%20Set%20-%201/JAVASCRIPT/task10.html <br>
+  4.11 https://vedanta-sharma.github.io/MERN-Stack-Task.github.io/Mern%20Task%20Set%20-%201/JAVASCRIPT/task11.html <br>
