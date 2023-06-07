@@ -1,6 +1,7 @@
 # MERN Stack Task.github.io
 
-Complete Tasks of MERN Stack Task List Set - 1.
+Complete Solutions of MERN Stack Task List Set - 1.
+Please find the links below.
 
 1. HTML Task List URLs <br>
   1.1 https://vedanta-sharma.github.io/MERN-Stack-Task.github.io/Mern%20Task%20Set%20-%201/Assignment-HTML/Task-1/index.html <br>
